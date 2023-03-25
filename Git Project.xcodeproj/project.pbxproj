@@ -11,6 +11,7 @@
 		7533F76B29CFB4A5006034F8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7533F76A29CFB4A5006034F8 /* ContentView.swift */; };
 		7533F76D29CFB4A6006034F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7533F76C29CFB4A6006034F8 /* Assets.xcassets */; };
 		7533F77029CFB4A6006034F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7533F76F29CFB4A6006034F8 /* Preview Assets.xcassets */; };
+		7533F77729CFBD05006034F8 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7533F77629CFBD05006034F8 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7533F76A29CFB4A5006034F8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7533F76C29CFB4A6006034F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7533F76F29CFB4A6006034F8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7533F77629CFBD05006034F8 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7533F76829CFB4A5006034F8 /* Git_ProjectApp.swift */,
 				7533F76A29CFB4A5006034F8 /* ContentView.swift */,
+				7533F77629CFBD05006034F8 /* ModalView.swift */,
 				7533F76C29CFB4A6006034F8 /* Assets.xcassets */,
 				7533F76E29CFB4A6006034F8 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7533F77729CFBD05006034F8 /* ModalView.swift in Sources */,
 				7533F76B29CFB4A5006034F8 /* ContentView.swift in Sources */,
 				7533F76929CFB4A5006034F8 /* Git_ProjectApp.swift in Sources */,
 			);
